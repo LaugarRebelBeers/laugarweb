@@ -1,5 +1,190 @@
-/*
-  app v1.1.0 - 8/9/2016
+(function() {
+  (function() {
+    var Laugar;
+    Laugar = (function() {
+      class Laugar {
+        /*tuk : TukTuk*/
+        constructor() {}
 
-  Author: _NAME_ - _EMAIL_
-*/(function(){var a=[].slice;!function(){var b;return b=function(){function b(){}return b.prototype.loaders=[],b.prototype.tuk=TukTuk,b.prototype.onload=function(a){return this.loaders.push(a)},b.prototype.init=function(){var a,b,c,d,e;for(d=this.loaders,e=[],b=0,c=d.length;c>b;b++)a=d[b],e.push("function"==typeof a?a():void 0);return e},b.prototype.prompt=function(){var b,c;return b=1<=arguments.length?a.call(arguments,0):[],(c=TukTuk.Modal).prompt.apply(c,b)},b.prototype.alert=function(){var b,c;return b=1<=arguments.length?a.call(arguments,0):[],(c=TukTuk.Modal).alert.apply(c,b)},b.prototype.confirm=function(a,b,c){return TukTuk.Modal.confirm(a,b,c)},b}(),window.Laugar=new b}(),$(function(){return Laugar.init()}),window.Key=function(){function a(a){var b,c;c=Laugar.tabletop.getModel(this.constructor.MODEL),b=c.all().filter(function(b){return b.key===a})[0],this.key=b.key,this.value=b.value}return a.MODEL="keys",a.prototype.key=void 0,a.prototype.value=void 0,a}(),function(){var a,b,c;return a=function(){function a(a){this.path=a}return a.prototype.path="",a.prototype.execute=function(a,b,c,d){var e;return null==a&&(a={}),e=new XMLHttpRequest,e.onreadystatechange=function(a){return 4===e.readyState&&"function"==typeof d?d(a.target):void 0},e.open(c,this.path+b,!0),"POST"===c||"PUT"===c||"PATCH"===c?e.send(JSON.stringify(a)):e.send()},a.prototype._get=function(a,b){return this.execute(null,a,"GET",b)},a.prototype._post=function(a,b,c){return this.execute(a,b,"POST",c)},a.prototype._put=function(a,b,c){return this.execute(a,b,"PUT",c)},a.prototype._del=function(a,b){return this.execute(null,a,"DELETE",b)},a}(),b=function(){function a(a,b){a=new URL(a),a.hostname=b+"@"+a.hostname,this.path=a.toString().replace("%40","@")}return a.prototype.path=void 0,a.prototype.sendMail=function(a,b){var c,d,e,f;c=document.createElement("form"),c.setAttribute("method","post"),c.setAttribute("action",this.path+"/messages");for(f in a)e=document.createElement("input"),e.setAttribute("type","hidden"),e.setAttribute("name",f),e.setAttribute("value",a[f]),c.appendChild(e);return d=document.createElement("iframe"),document.body.appendChild(d),d.contentDocument.body.appendChild(c),d.onload=function(a){return a.target.remove(),"function"==typeof b?b():void 0},c.submit()},a}(),c=function(){function a(a,b){Tabletop.init({key:a,callback:function(a){return function(c,d){return a.tabletop=d,"function"==typeof b?b(a):void 0}}(this),simpleSheet:!1})}return a.prototype.tabletop={},a.prototype.getModel=function(a){return this.tabletop.models[a]},a}(),Laugar.tabletop=new c("1aosZztzhSE4RD7xDBOym0kuI-2aCf6P6FTj91X0SpZM",function(){return Laugar.mailgun=function(){var a,c;return a=new Key("mailgun"),c=new Key("mailgun-url"),new b(c.value,a.value)}()}),Laugar.testMail={from:"a.berzosa.iglesias@gmail.com",to:"aberigle@uhurus.com",subject:"holi",text:"hello world!"}}()}).call(this);
+        onload(fn) {
+          return this.loaders.push(fn);
+        }
+
+        init() {
+          var fn, i, len, ref, results;
+          ref = this.loaders;
+          results = [];
+          for (i = 0, len = ref.length; i < len; i++) {
+            fn = ref[i];
+            results.push(typeof fn === "function" ? fn() : void 0);
+          }
+          return results;
+        }
+
+      };
+
+      Laugar.prototype.loaders = [];
+
+      return Laugar;
+
+    }).call(this);
+    /*prompt  : (args...) -> TukTuk.Modal.prompt args...
+    alert   : (args...) -> TukTuk.Modal.alert args...
+    confirm : (message, true_cb, false_cb) ->
+    TukTuk.Modal.confirm message, true_cb, false_cb*/
+    return window.Laugar = new Laugar;
+  })();
+
+  $(function() {
+    return Laugar.init();
+  });
+
+  window.Key = (function() {
+    class Key {
+      constructor(key) {
+        var model, models;
+        models = Laugar.tabletop.getModel(this.constructor.MODEL);
+        model = models.all().filter(function(item) {
+          return item.key === key;
+        })[0];
+        this.key = model.key;
+        this.value = model.value;
+      }
+
+    };
+
+    Key.MODEL = "keys";
+
+    Key.prototype.key = void 0;
+
+    Key.prototype.value = void 0;
+
+    return Key;
+
+  }).call(this);
+
+  (function() {
+    var API, MailGun, TabletopHelper;
+    API = (function() {
+      class API {
+        constructor(path1) {
+          this.path = path1;
+        }
+
+        execute(message = {}, path, method, callback) {
+          var xhr;
+          xhr = new XMLHttpRequest;
+          xhr.onreadystatechange = function(event) {
+            if (xhr.readyState === 4) {
+              return typeof callback === "function" ? callback(event.target) : void 0;
+            }
+          };
+          xhr.open(method, this.path + path, true);
+          if (method === "POST" || method === "PUT" || method === "PATCH") {
+            return xhr.send(JSON.stringify(message));
+          } else {
+            return xhr.send();
+          }
+        }
+
+        _get(path, callback) {
+          return this.execute(null, path, "GET", callback);
+        }
+
+        _post(message, path, callback) {
+          return this.execute(message, path, "POST", callback);
+        }
+
+        _put(message, path, callback) {
+          return this.execute(message, path, "PUT", callback);
+        }
+
+        _del(path, callback) {
+          return this.execute(null, path, "DELETE", callback);
+        }
+
+      };
+
+      API.prototype.path = "";
+
+      return API;
+
+    }).call(this);
+    MailGun = (function() {
+      class MailGun {
+        constructor(url, key) {
+          url = new URL(url);
+          url.hostname = `${key}@${url.hostname}`;
+          this.path = url.toString().replace("%40", "@");
+        }
+
+        sendMail(request, callback) {
+          var form, iframe, input, item;
+          form = document.createElement("form");
+          form.setAttribute("method", "post");
+          form.setAttribute("action", this.path + "/messages");
+          for (item in request) {
+            input = document.createElement("input");
+            input.setAttribute("type", "hidden");
+            input.setAttribute("name", item);
+            input.setAttribute("value", request[item]);
+            form.appendChild(input);
+          }
+          iframe = document.createElement("iframe");
+          document.body.appendChild(iframe);
+          iframe.contentDocument.body.appendChild(form);
+          iframe.onload = function(data) {
+            data.target.remove();
+            return typeof callback === "function" ? callback() : void 0;
+          };
+          return form.submit();
+        }
+
+      };
+
+      MailGun.prototype.path = void 0;
+
+      return MailGun;
+
+    }).call(this);
+    TabletopHelper = (function() {
+      class TabletopHelper {
+        constructor(key, callback) {
+          Tabletop.init({
+            key: key,
+            callback: (data, tabletop) => {
+              this.tabletop = tabletop;
+              return typeof callback === "function" ? callback(this) : void 0;
+            },
+            simpleSheet: false
+          });
+        }
+
+        getModel(key) {
+          return this.tabletop.models[key];
+        }
+
+      };
+
+      TabletopHelper.prototype.tabletop = {};
+
+      return TabletopHelper;
+
+    }).call(this);
+    Laugar.tabletop = new TabletopHelper("1aosZztzhSE4RD7xDBOym0kuI-2aCf6P6FTj91X0SpZM", function() {
+      return Laugar.mailgun = (function() {
+        var key, url;
+        key = new Key("mailgun");
+        url = new Key("mailgun-url");
+        return new MailGun(url.value, key.value);
+      })();
+    });
+    return Laugar.testMail = {
+      from: "a.berzosa.iglesias@gmail.com",
+      to: "aberigle@uhurus.com",
+      subject: "holi",
+      text: "hello world!"
+    };
+  })();
+
+}).call(this);
