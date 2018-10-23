@@ -39,30 +39,6 @@
     return Laugar.init();
   });
 
-  window.Key = (function() {
-    class Key {
-      constructor(key) {
-        var model, models;
-        models = Laugar.tabletop.getModel(this.constructor.MODEL);
-        model = models.all().filter(function(item) {
-          return item.key === key;
-        })[0];
-        this.key = model.key;
-        this.value = model.value;
-      }
-
-    };
-
-    Key.MODEL = "keys";
-
-    Key.prototype.key = void 0;
-
-    Key.prototype.value = void 0;
-
-    return Key;
-
-  }).call(this);
-
   (function() {
     var API;
     return API = (function() {
