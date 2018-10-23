@@ -64,8 +64,8 @@
   }).call(this);
 
   (function() {
-    var API, MailGun, TabletopHelper;
-    API = (function() {
+    var API;
+    return API = (function() {
       class API {
         constructor(path1) {
           this.path = path1;
@@ -110,81 +110,6 @@
       return API;
 
     }).call(this);
-    MailGun = (function() {
-      class MailGun {
-        constructor(url, key) {
-          url = new URL(url);
-          url.hostname = `${key}@${url.hostname}`;
-          this.path = url.toString().replace("%40", "@");
-        }
-
-        sendMail(request, callback) {
-          var form, iframe, input, item;
-          form = document.createElement("form");
-          form.setAttribute("method", "post");
-          form.setAttribute("action", this.path + "/messages");
-          for (item in request) {
-            input = document.createElement("input");
-            input.setAttribute("type", "hidden");
-            input.setAttribute("name", item);
-            input.setAttribute("value", request[item]);
-            form.appendChild(input);
-          }
-          iframe = document.createElement("iframe");
-          document.body.appendChild(iframe);
-          iframe.contentDocument.body.appendChild(form);
-          iframe.onload = function(data) {
-            data.target.remove();
-            return typeof callback === "function" ? callback() : void 0;
-          };
-          return form.submit();
-        }
-
-      };
-
-      MailGun.prototype.path = void 0;
-
-      return MailGun;
-
-    }).call(this);
-    TabletopHelper = (function() {
-      class TabletopHelper {
-        constructor(key, callback) {
-          Tabletop.init({
-            key: key,
-            callback: (data, tabletop) => {
-              this.tabletop = tabletop;
-              return typeof callback === "function" ? callback(this) : void 0;
-            },
-            simpleSheet: false
-          });
-        }
-
-        getModel(key) {
-          return this.tabletop.models[key];
-        }
-
-      };
-
-      TabletopHelper.prototype.tabletop = {};
-
-      return TabletopHelper;
-
-    }).call(this);
-    Laugar.tabletop = new TabletopHelper("1aosZztzhSE4RD7xDBOym0kuI-2aCf6P6FTj91X0SpZM", function() {
-      return Laugar.mailgun = (function() {
-        var key, url;
-        key = new Key("mailgun");
-        url = new Key("mailgun-url");
-        return new MailGun(url.value, key.value);
-      })();
-    });
-    return Laugar.testMail = {
-      from: "a.berzosa.iglesias@gmail.com",
-      to: "aberigle@uhurus.com",
-      subject: "holi",
-      text: "hello world!"
-    };
   })();
 
 }).call(this);
