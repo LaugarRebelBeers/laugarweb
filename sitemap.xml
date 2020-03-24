@@ -2,37 +2,69 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://laugarbrewery.com/beers/amarauna/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.438Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/annihilator/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.235Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/anniversary-2018/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.832Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/annyversary-2016/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.350Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/annyversary-2017/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.548Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/aupa-tovarisch-barrel-aged/</loc>
-    <lastmod>2018-12-11T15:49:50.603Z</lastmod>
+    <lastmod>2019-01-03T09:59:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/beers/aupa-tovarisch-brandy/</loc>
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/beers/aupa-tovarisch-porto/</loc>
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -62,313 +94,535 @@
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/aupa-tovarisch/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.411Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/aurrera-stanitsa/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.848Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/azala/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.072Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/basatia/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.548Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/basurde/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.929Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/black-tundra/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.041Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/block-tovarisch/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.014Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/braskadi/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.249Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/brutus/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.884Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/cloudy-fever/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.600Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/coffee-brain/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.311Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/demon-cleaner/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.673Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/dortoka/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.211Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/electric-funeral/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.258Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/epa/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.718Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/fibonatxi-0/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.734Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/fibonatxi-1/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.922Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/fumata-nera/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.613Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/funeralopolis/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.454Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/funky-espresso/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:29:00.775Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/hop-shock/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.814Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/hopdrama/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.701Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/hopzale/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.012Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/hopzilla/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.474Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.502Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/karmazedonia/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.510Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/kiskale/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.130Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/klompen-txapela/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:59.576Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/koadrilan/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.324Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/lsb/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.645Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/ostadar/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.329Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/beers/phantom-state/</loc>
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/piztiak/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.110Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/punkarra/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.238Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/rebel-road-trip/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:29:02.087Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/red-summer-rain/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.449Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/starless-milky-way/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.164Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/tekiller/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.660Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/the-lauter-revenge/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.810Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/thriller/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:58.123Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/txo/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.050Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/wet-wild/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.885Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/why-russian/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.854Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/beers/zapaburu/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.625Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/contact/fail/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.580Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/contact/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.670Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/contact/success/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.742Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/amarauna/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.350Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/annihilator/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.136Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/anniversary-2018/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.731Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/annyversary-2016/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.271Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/annyversary-2017/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.458Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/aupa-tovarisch-barrel-aged/</loc>
-    <lastmod>2018-12-11T15:49:50.499Z</lastmod>
+    <lastmod>2019-01-03T09:59:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/en/beers/aupa-tovarisch-brandy/</loc>
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/en/beers/aupa-tovarisch-porto/</loc>
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -398,385 +652,647 @@
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/aupa-tovarisch/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.319Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/aurrera-stanitsa/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.749Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/azala/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.987Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/basatia/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.440Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/basurde/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.829Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/black-tundra/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.954Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/block-tovarisch/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.916Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/braskadi/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.154Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/brutus/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.781Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/cloudy-fever/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.491Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/coffee-brain/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.211Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/demon-cleaner/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.567Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/dortoka/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.120Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/electric-funeral/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.175Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/epa/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.602Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/fibonatxi-0/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.646Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/fibonatxi-1/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.835Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/fumata-nera/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:50.512Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/funeralopolis/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:51.360Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:10.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/funky-espresso/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:29:00.275Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/hop-shock/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.725Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/hopdrama/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.610Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/hopzale/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.929Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/hopzilla/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.376Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.224Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/karmazedonia/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.421Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/kiskale/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.036Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/klompen-txapela/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:58.982Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/koadrilan/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.156Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/lsb/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.561Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/ostadar/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:48.238Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://laugarbrewery.com/en/beers/phantom-state/</loc>
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/piztiak/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.020Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/punkarra/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.144Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:08.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/rebel-road-trip/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:29:01.300Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:16.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/red-summer-rain/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:56.351Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/starless-milky-way/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:52.054Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:11.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/tekiller/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.569Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/the-lauter-revenge/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:55.713Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/thriller/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:57.541Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:15.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/txo/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.956Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:14.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/wet-wild/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:53.798Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:12.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/why-russian/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:54.762Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:13.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/beers/zapaburu/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:49.540Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:09.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/contact/fail/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.338Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/contact/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.456Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/contact/success/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.529Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/history/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.648Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.798Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/info/cookies-policy/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.904Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/info/legal-notice/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:45.987Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:04.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/info/privacy-policy-2/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.062Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/info/privacy-policy/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.127Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/info/terms-and-conditions/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.203Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/taproom/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.290Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/en/tours/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.372Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/history/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.826Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:46.933Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/info/cookies-policy/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.009Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:05.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/info/legal-notice/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.082Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/info/privacy-policy-2/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.167Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/info/privacy-policy/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.233Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/info/terms-and-conditions/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.299Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/taproom/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.381Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://laugarbrewery.com/tours/</loc>
+<<<<<<< HEAD
     <lastmod>2018-12-18T14:28:47.461Z</lastmod>
+=======
+    <lastmod>2019-01-03T10:00:06.000Z</lastmod>
+>>>>>>> 6aab09fb3f243d0c734f9c22362f35760fbe8b75
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
