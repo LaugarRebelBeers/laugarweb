@@ -8930,6 +8930,13 @@ h3, h4, h5 {
   margin-left: 1rem;
   margin-right: 1rem;
 }
+.nav-item--featured .nav-link {
+  color: white !important;
+  opacity: 0.9;
+}
+.nav-item--featured .nav-link:hover {
+  opacity: 1;
+}
 
 header.masthead {
   z-index: 1020;
