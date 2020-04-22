@@ -9124,11 +9124,11 @@ header.masthead {
   font-weight: 300;
 }
 .cover-content h1.responsive-typo {
-  font-size: calc( 48px + 54.4 * (100vw - 600px) / 680);
+  font-size: calc( 48px + 48 * (100vw - 600px) / 600);
 }
-@media (min-width: 1280px) {
+@media (min-width: 1200px) {
   .cover-content h1.responsive-typo {
-    font-size: 102.4px;
+    font-size: 96px;
   }
 }
 @media (max-width: 600px) {
